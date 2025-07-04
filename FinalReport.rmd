@@ -46,9 +46,7 @@ barchartGC(~infected + treatment,data=females, type="percent")
 
 
 
-
-
-
+According to the plot it looks like the treatment indicates and make females want to do things that leads to them getting sick. 
 
 ### Numerical Descriptive Results
 
